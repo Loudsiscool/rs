@@ -1,4 +1,4 @@
-ARX Legend Stage (Demon Slayer To Tokyo Ghoul) 
+ARX Legend Stage 
 
 Steps To Use:
 
