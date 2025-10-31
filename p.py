@@ -6,7 +6,7 @@ import numpy as np
 import threading
 import sys
 import logging
-
+# made by terra
 # --- Setup Logging (First step to ensure everything is logged) ---
 LOG_FILE = "Debug.txt"
 # Initially setup basic logging to console only
@@ -3604,4 +3604,5 @@ class Application(tk.Tk):
 if __name__ == '__main__':
     # DPI awareness is already set at the top of the file
     app = Application()
+
     app.mainloop()
